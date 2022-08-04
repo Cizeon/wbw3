@@ -12,6 +12,8 @@ This course was offered by https://www.womenbuildweb3.com/#30dw3.
 - I created a scripts folder and wrote a test script using chai: see test/index.ts.
 - I tried to cover as much as possible in the test case.
 
+# Bugs in the smart contract
+
 I found a bug in the smart contract. It does not check if an event already exists.
 See scripts/exploit.ts for a proof-of-concept.
 If someone creates an event and someone subscribes. If the event owner creates the same event again (same parameters), all attendee's money is lost forever since confirmedRSVPs is reset.
