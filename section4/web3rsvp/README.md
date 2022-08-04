@@ -1,4 +1,4 @@
-This is section 3 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/4-deploying-your-smart-contract/3-checkpoint
+This is section 4 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/4-deploying-your-smart-contract/3-checkpoint
 This course was offered by https://www.womenbuildweb3.com/#30dw3.
 
 # Mumbai Deployment
