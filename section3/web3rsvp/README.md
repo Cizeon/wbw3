@@ -1,6 +1,8 @@
 This is section 3 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/3-writing-your-smart-contract/6-checkpoint
 This course was offered by https://www.womenbuildweb3.com/#30dw3.
 
+I used hardhat with typescript to complete this section.
+
 # Compile
 
 ```console
