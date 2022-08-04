@@ -3,8 +3,8 @@ This course was offered by https://www.womenbuildweb3.com/#30dw3.
 
 # Mumbai Deployment
 
-Contract deployed at address:0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6
-Polygonscan: https://mumbai.polygonscan.com/address/0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6#code
+- Contract deployed at address:0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6
+- Polygonscan: https://mumbai.polygonscan.com/address/0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6#code
 
 # Notes
 
@@ -50,7 +50,7 @@ Compiled 1 Solidity file successfully
 # Testing
 
 ```console
-$ hh est
+$ hh test
 
   Web3RSVP
     createNewEvent()
