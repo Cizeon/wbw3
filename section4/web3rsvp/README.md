@@ -1,16 +1,18 @@
-This is section 3 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/4-deploying-your-smart-contract/3-checkpoint
+This is section 4 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/4-deploying-your-smart-contract/3-checkpoint
 This course was offered by https://www.womenbuildweb3.com/#30dw3.
 
 # Mumbai Deployment
 
-Contract deployed at address:0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6
-Polygonscan: https://mumbai.polygonscan.com/address/0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6#code
+- Contract deployed at address:0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6
+- Polygonscan: https://mumbai.polygonscan.com/address/0xd0aA26df1F1142b713c67FE55ceeebE2AA9cd7C6#code
 
 # Notes
 
 - I used hardhat with TypeScript to complete this section.
 - I created a scripts folder and wrote a test script using chai: see test/index.ts.
 - I tried to cover as much as possible in the test case.
+
+# Bugs in the smart contract
 
 I found a bug in the smart contract. It does not check if an event already exists.
 See scripts/exploit.ts for a proof-of-concept.
@@ -50,7 +52,7 @@ Compiled 1 Solidity file successfully
 # Testing
 
 ```console
-$ hh est
+$ hh test
 
   Web3RSVP
     createNewEvent()
