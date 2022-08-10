@@ -1,4 +1,4 @@
-This is section 7 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/6-building-your-frontend/8-checkpoint
+This is section 7 of the 30 Days of Web3 course: https://www.30daysofweb3.xyz/en/curriculum/7-querying-the-graph/4-checkpoint
 This course was offered by https://www.womenbuildweb3.com/#30dw3.
 
 Contract deployed: 0xd0aa26df1f1142b713c67fe55ceeebe2aa9cd7c6
